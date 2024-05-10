@@ -1,8 +1,8 @@
-Hi 👋 My name is Mushfiqus Salehin Afnan
+Hi 👋 I'm Mushfiqus Salehin Afnan
 ========================================
 `Web Developer`
 --------------
-I'm an aspiring web developer who loves making good looking and responsive websites. I know my way around a bunch of coding languages and frameworks like MERN stack, Next.js, Node, and ES6 etc. Plus, I'm pretty handy at solving problems, thanks to my time spent in competitive programming. Basically, I'm pumped to keep learning and getting better in the wild world of web development!
+I am an aspiring web developer who loves making good looking and responsive websites. I know my way around a bunch of coding languages and frameworks like MERN stack, Next.js, Node, and ES6 etc. Plus, I'm pretty handy at solving problems, thanks to my time spent in competitive programming. Basically, I'm pumped to keep learning and getting better in the wild world of web development!
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [salehinafnan.me](http://salehinafnan.me)
